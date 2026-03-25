@@ -23,6 +23,13 @@ Projeto de testes automatizados de API utilizando Cucumber, JUnit e Rest-Assured
 
 Clone o repositório e execute na raiz do projeto:
 
+
+## classe Runner
+Clicar com botão direito do mouse 
+Depois clicar em runner
+
+
+
 ```bash
 mvn test -Dtest=Runner
 ```
